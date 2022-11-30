@@ -1,1 +1,1 @@
-<a href="index.html">click here to open the website</a>
+<a href="https://luiizmiranda.github.io/site-android/site/index.html">click here to open the website</a>
